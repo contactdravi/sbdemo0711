@@ -1,0 +1,14 @@
+{
+  "id": "6e9f51c1-6b45-440f-af5a-2abc96cd083d",
+  "categoryName": "Sleeping Bags",
+  "name": "Vareno Sleeping Bag (6') Turmeric",
+  "price": 120.00,
+  "closeout": true,
+  "manufacturer": {
+    "name": "Vareno"
+  },
+  "tags": [
+    { "name": "Color Group: Yellow" },
+    { "name": "Bag Shape: Mummy" }
+  ]
+}
