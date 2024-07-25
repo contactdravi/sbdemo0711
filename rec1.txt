@@ -1,0 +1,20 @@
+{
+  "id": "863e778d-21c9-4e2a-a984-d31f947c665c",
+  "categoryName": "Surfboards",
+  "name": "Teapo Surfboard (6'10\") Grape",
+  "sku": "teapo-surfboard-72109",
+  "price": 690.00,
+  "manufacturer": {
+    "name": "Taepo",
+    "location": {
+      "type": "Point",
+      "coordinates": [ 
+        34.15562788533047, -118.4633004882891
+      ]
+    }
+  },
+  "tags": [
+    { "name": "Tail Shape: Swallow" },
+    { "name": "Color Group: Purple" }
+  ]
+}
